@@ -1,0 +1,27 @@
+{"products": [
+        { "id_product": 1, "name": "Smart TV OLED 4K Ultra HD con Google TV 65", "img": "images/1.jpg", "price": 3560, "id_category": 4 },
+        { "id_product": 2, "name": "Smart TV 4K Ultra HD con Google TV 75", "img": "images/2.jpg", "price": 1380, "id_category": 4 },
+        { "id_product": 3, "name": "Kit: KD-75X80J + PlayStation®5 Standard", "img": "images/3.jpg", "price": 2890, "id_category": 4 },
+        { "id_product": 4, "name": "Kit: XR-65A80J + PlayStation®5 Standard", "img": "images/4.jpg", "price": 2900, "id_category": 4 },
+        { "id_product": 5, "name": "SRS-XV900 Parlantes inalámbricos de alta potencia", "img": "images/5.jpg", "price": 3570, "id_category": 3 },
+        { "id_product": 6, "name": "Parlante inalámbrico portátil <br>XG300", "img": "images/6.jpg", "price": 1790, "id_category": 3 },
+        { "id_product": 7, "name": "Auriculares inalámbricos con noise cancelling WH-1000XM5", "img": "images/7.jpg", "price": 3450, "id_category": 3 },
+        { "id_product": 8, "name": "Sistema de Home Theatre Sound Mapping y Dolby Atmos®/DTS:X®", "img": "images/8.jpg", "price": 3210, "id_category": 3 },
+        { "id_product": 9, "name": "PlayStation®5 + God of War Ragnarok ", "img": "images/9.jpg", "price": 1890, "id_category": 5 },
+        { "id_product": 10,"name": "Control Dualsense EDGE ZCP1 para PlayStation®5", "img": "images/10.jpg", "price": 3370, "id_category": 5 },
+        { "id_product": 11,"name": "PlayStation®5 Need for Speed Unbound", "img": "images/11.jpg", "price": 3120, "id_category": 5 },
+        { "id_product": 12,"name": "PlayStation®4 Horizon Forbidden West", "img": "images/12.jpg", "price": 1340, "id_category": 5 },
+        { "id_product": 13,"name": "Cámara Digital Mirrorless Vlogger Full Frame ZV-E1 (Solo body)", "img": "images/13.jpg", "price": 1460, "id_category": 2 },
+        { "id_product": 14,"name": "Kit: ILCE-7M4 A7IV + Lente Fijo Gran Angular 50mm F1.8 Full Frame", "img": "images/14.jpg", "price": 2450, "id_category": 2 },
+        { "id_product": 15,"name": "Lente Zoom Teleobjetivo 70-200mm F2.8 Serie GMaster Versión 2", "img": "images/15.jpg", "price": 2450, "id_category": 2 },
+        { "id_product": 14,"name": "Lente Zoom Gran Angular 12-24mm F2.8 Serie GMaster SEL1224GM", "img": "images/16.jpg", "price": 2580, "id_category": 2 }
+],
+
+
+"category" : [
+    { "id_category": 1, "name": "Seleccione una categoria"},
+    { "id_category": 2, "name": "Camaras"},
+    { "id_category": 3, "name": "Audio"},
+    { "id_category": 4, "name": "Televisores"},
+    { "id_category": 5, "name": "Consolas y Videojuegos"}
+]}
